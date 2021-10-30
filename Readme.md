@@ -11,12 +11,12 @@ This analysis was performed on the kickstarter campaign data to unlock underlyin
 
 ### Analysis of Outcomes Based on Launch Date
 *Created an analysis of the kickstarter campaigns by the month it was launched. The goal of this analysis was to determine the campaign outcomes over time for theater related kickstarters. 
-*Results can be found here. ![Theater_Outcomes_vs_Launch](https://github.com/rachanashenoy1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/rachanashenoy1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 *Used pivot tables and a line chart to complete the analysis. The pivot table also had to be sorted and filtered to get the right results.
 
 ### Analysis of Outcomes Based on Goals
 *Created an analysis of kickstart campaigns to determine the success rate based on the goal amount. 
-*Results can be found here. ![Outcomes_vs_Goals](https://github.com/rachanashenoy1/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/rachanashenoy1/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 *Used countifs formula to create the underlying data table and created a line chart to determine the % of campaigns that were successful, failed and canceled.
 
 ### Challenges and Difficulties Encountered
