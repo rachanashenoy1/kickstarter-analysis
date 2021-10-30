@@ -25,16 +25,16 @@ This analysis was performed on the kickstarter campaign data to unlock underlyin
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-* Campaigns that were launched during May were the most successful. 
-* The month of December had the most number of failed campaigns. 
+1 Campaigns that were launched during May were the most successful. 
+2 The month of December had the most number of failed campaigns. 
 
 - What can you conclude about the Outcomes based on Goals?
-* Campaigns with a goal of between $1000 to $5000 were the most successful.
+1 Campaigns with a goal of between $1000 to $5000 were the most successful.
 
 - What are some limitations of this dataset?
-* All the goal and pledged values are in multiple currencies. This might cause some of the analyses to be inaccurate. 
+1 All the goal and pledged values are in multiple currencies. This might cause some of the analyses to be inaccurate. 
 
 
 - What are some other possible tables and/or graphs that we could create?
-* Campaign outcomes by country
-* Campaign outcomes by category
+1 Campaign outcomes by country
+2 Campaign outcomes by category
