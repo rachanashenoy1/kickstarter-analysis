@@ -25,7 +25,7 @@ This analysis was performed on the kickstarter campaign data to unlock underlyin
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1 Campaigns that were launched during May were the most successful. 
+1. Campaigns that were launched during May were the most successful. 
 2 The month of December had the most number of failed campaigns. 
 
 - What can you conclude about the Outcomes based on Goals?
